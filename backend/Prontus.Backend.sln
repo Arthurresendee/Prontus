@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prontus.API", "Prontus.API\Prontus.API.csproj", "{DA8E5A56-A762-41AD-9F20-D415D7D6A0BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prontus.Core", "Prontus.Core\Prontus.Core.csproj", "{59977556-40C6-4324-9A32-BAF9A8441F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prontus.Infrastructure", "Prontus.Infrastructure\Prontus.Infrastructure.csproj", "{9193B5B2-606E-43F4-9CD3-2C85878347F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prontus.Application", "Prontus.Application\Prontus.Application.csproj", "{B32B71B7-D106-473E-8F93-9EE89FEFF518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8E5A56-A762-41AD-9F20-D415D7D6A0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8E5A56-A762-41AD-9F20-D415D7D6A0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8E5A56-A762-41AD-9F20-D415D7D6A0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8E5A56-A762-41AD-9F20-D415D7D6A0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59977556-40C6-4324-9A32-BAF9A8441F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59977556-40C6-4324-9A32-BAF9A8441F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59977556-40C6-4324-9A32-BAF9A8441F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59977556-40C6-4324-9A32-BAF9A8441F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9193B5B2-606E-43F4-9CD3-2C85878347F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9193B5B2-606E-43F4-9CD3-2C85878347F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9193B5B2-606E-43F4-9CD3-2C85878347F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9193B5B2-606E-43F4-9CD3-2C85878347F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32B71B7-D106-473E-8F93-9EE89FEFF518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32B71B7-D106-473E-8F93-9EE89FEFF518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32B71B7-D106-473E-8F93-9EE89FEFF518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32B71B7-D106-473E-8F93-9EE89FEFF518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
